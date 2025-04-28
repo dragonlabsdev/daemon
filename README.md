@@ -17,7 +17,7 @@ Draco Daemon is the daemon for the Draco Panel.
 `npm install`
 
 6. Configure DracoDaemon:
-- Get your Panel's access key from the Hydra panel's config.json file and set it as 'remoteKey'. Do the same for the other way, set your DracoDaemon access key and configure it on the Panel.
+- Get your Panel's access key from the panel's config.json file and set it as 'remoteKey'. Do the same for the other way, set your DracoDaemon access key and configure it on the Panel.
 
 7. Start the Daemon:
 `node . # or use pm2 to keep it online`
@@ -32,12 +32,11 @@ The daemon runs as a background service, interfacing with the Draco Panel for op
 Contributions to enhance the functionality or performance of the Draco Daemon are encouraged. Please submit pull requests for any enhancements.
 
 ## License
-(c) 2024 MJ and contributors. This software is licensed under the MIT License.
+(c) 2025 MJ and contributors. This software is licensed under the MIT License.
 
 
 ## Credits
 SRYDEN
 Skyport
-Hydra-Labes
 
-- Thanks ma4z,ether,achul123,privt
+- Thanks ,ether,achul123,privt
