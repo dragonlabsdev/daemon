@@ -11,7 +11,7 @@ Draco Daemon is the daemon for the Draco Panel.
 `cd daemon`
 
 3. Install some importent:
-`apt install zip -y && unip daemon.zip && cd daemon`
+`apt install zip -y && unzip daemon.zip && cd daemon`
 
 5. Install dependencies:
 `npm install`
